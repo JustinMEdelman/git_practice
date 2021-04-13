@@ -1,1 +1,2 @@
 Hello Git and Github world, making progress
+This is a change to file 1 to measure change
